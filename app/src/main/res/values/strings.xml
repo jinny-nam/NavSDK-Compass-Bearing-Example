@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavCompass_z139093</string>
+    <string name="mapbox_access_token">YOUR MAPBOX TOKEN HERE</string>
+</resources>
